@@ -1,0 +1,18 @@
+{
+  "Mobile": [
+    {
+      "image": "https://media.licdn.com/dms/image/D4D03AQESjsjap710JQ/profile-displayphoto-shrink_800_800/0/1680871779477?e=2147483647&v=beta&t=eBZngMeCUgsGdEvp3k5gGGHdPyOd2RkmA_g61deJis8",
+      "name": "Redmi A2",
+      "price": "1200",
+      "brand": "samsung",
+      "id": 1
+    },
+    {
+      "image": "https://media.licdn.com/dms/image/D4D03AQESjsjap710JQ/profile-displayphoto-shrink_800_800/0/1680871779477?e=2147483647&v=beta&t=eBZngMeCUgsGdEvp3k5gGGHdPyOd2RkmA_g61deJis8",
+      "name": "",
+      "price": "",
+      "brand": "",
+      "id": 2
+    }
+  ]
+}
